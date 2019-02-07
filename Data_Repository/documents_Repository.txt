@@ -1,0 +1,6 @@
+ documents table 
+* insert   => cancelled will enter 
+* delete   => will be manually 
+* create    => manaually 
+* update   => manually
+* read       => selecect => will do it after open session 

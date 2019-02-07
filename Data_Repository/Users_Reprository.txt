@@ -1,0 +1,6 @@
+user table 
+* insert => cancelled will enter users manully
+*delete => will be manually 
+*create=> manaually 
+*update => manually
+*read=> selecect => will do it after open session 

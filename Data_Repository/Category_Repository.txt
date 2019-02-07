@@ -1,0 +1,21 @@
+//connection to database
+ 
+
+public class
+{
+Actions
+
+get all data for Category table 
+
+
+get specific row from the Category table using id
+
+
+insert new record Category 
+
+
+update data using id in Category 
+
+
+delete data using id Category 
+}

@@ -1,0 +1,23 @@
+//connection to database
+
+https://www.startutorial.com/homes/oo_beginner "link oop "
+????? ????? ??????? ?????? ??????? ??? 
+
+public class
+{
+Actions
+
+get all data for item table 
+
+
+get specific row from the item table using id
+
+
+insert new record
+
+
+update data using id
+
+
+delete data using id
+}

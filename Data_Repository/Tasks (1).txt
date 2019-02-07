@@ -1,0 +1,5 @@
+1-Learn how to write stored procedure and how to use it
+2-make the session for the login page and get the user Role
+3-show the page according to the user role
+4-make curd operations for every table i may use 
+5-fix all repositories files so that return the neccessary variables
